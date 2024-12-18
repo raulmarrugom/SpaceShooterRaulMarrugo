@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"/Users/sena/Documents/GitHub/Unreal_Shooter/Shooter16Dic/Content/Maps/Main.umap",
+				"/Users/sena/Documents/GitHub/Unreal_Shooter/Shooter16Dic/Content/blueprints/bpGameMode.uasset",
+				"/Users/sena/Documents/GitHub/Unreal_Shooter/Shooter16Dic/Content/blueprints/bpPlayer.uasset"
+			]
+		}
+	]
+}
